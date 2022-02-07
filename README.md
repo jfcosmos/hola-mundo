@@ -1,4 +1,4 @@
-# hola-mundo
+# otra-rama
 Mi primer repositorio de prueba 
 
 Autor: Jesús Fidel C.
